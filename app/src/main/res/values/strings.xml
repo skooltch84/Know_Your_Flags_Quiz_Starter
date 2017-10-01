@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Know Your Flags</string>
+    <string name="start_button">Start Quiz</string>
+    <string name="intro_text">
+        Click the start button to begin testing your knowledge
+        on the flags of the different countries.
+    </string>
+    <string name="app_info">This app was created by Skooltchdev</string>
+    <string name="instructions">Select a category by clicking on a button below.</string>
+    <string name="americas">Flags of the Americas</string>
+</resources>
